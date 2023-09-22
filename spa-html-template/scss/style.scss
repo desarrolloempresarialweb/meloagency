@@ -7,7 +7,7 @@ $dark: #211E1C;
 
 $font-family-sans-serif: 'Poppins', sans-serif;
 
-$body-color: #757575;
+$body-color: #2f40a2;
 
 $headings-color: $dark;
 
@@ -162,7 +162,6 @@ h6,
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
-    background: rgba(33, 30, 28, .5);
     transition: .5s;
     z-index: 1;
 }
