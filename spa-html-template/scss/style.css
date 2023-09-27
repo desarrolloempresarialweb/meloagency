@@ -43,10 +43,6 @@
   box-sizing: border-box;
 }
 
-#barra{
-  background-color: #73D1EA !important;
-}
-
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -297,16 +293,6 @@ input[type=checkbox] {
 textarea {
   overflow: auto;
   resize: vertical;
-}
-
-/* modificaciones */
-
-#barra{
-  background-color: #73D1EA !important;
-}
-
-.final{
-  background-color: #73D1EA !important;
 }
 
 fieldset {
@@ -9130,7 +9116,6 @@ h6,
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  background: rgba(33, 30, 28, 0.5);
   transition: 0.5s;
   z-index: 1;
 }
