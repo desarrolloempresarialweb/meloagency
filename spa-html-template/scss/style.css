@@ -5688,7 +5688,7 @@ button.bg-info:focus {
 }
 
 .bg-warning {
-  background-color: #ffc107 !important;
+  background-color: #5B66A6 !important;
 }
 
 a.bg-warning:hover, a.bg-warning:focus,
@@ -5708,13 +5708,13 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #FEF1EF !important;
+  background-color: #833F8C !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #fbc7bf !important;
+  background-color: black !important;
 }
 
 .bg-dark {
