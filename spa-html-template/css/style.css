@@ -63,7 +63,10 @@ body {
   line-height: 1.5;
   color: #74D1EA ;
   text-align: left;
-  background-color: #fff;
+  background-color: #5C5BA1;
+  
+    background-image: linear-gradient(180deg, #509DCB, #5C5BA1,#509DCB,#C32C7B, #509DCB);
+  
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -650,6 +653,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  border: #8B3D89;
 }
 
 .col {
@@ -8814,7 +8818,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  background-image: #E0ECF3, #5195C6,#5865A7;
+  background-image: #E0ECF3, #5195C6,#5865A7; 
 
 }
 
