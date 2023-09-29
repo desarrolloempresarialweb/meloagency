@@ -8814,7 +8814,8 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  background-image: #E0ECF3, #5195C6,#5865A7;
+
 }
 
 .text-primary {
@@ -9157,7 +9158,7 @@ h6,
 }
 
 .bg-jumbotron {
-  background: linear-gradient(rgba(33, 30, 28, 0.7), rgba(33, 40, 28, 0.7)), url(../img/logo_28.png), no-repeat center center;
+  background: linear-gradient(rgba(33, 30, 28, 0.7), rgba(33, 40, 28, 0.7)), url(../img/Diseño\ sin\ título\ \(8\).png), no-repeat center center;
   background-size: cover;
 }
 
